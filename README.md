@@ -6,4 +6,4 @@ JDK 11.0.6
 JavaFX 11.0.2
 
 Screenshots:
-![alt text](/home/hefenzy/Pictures/game_of_life2.png)
+![alt text](file:/home/hefenzy/Pictures/game_of_life2.png)
